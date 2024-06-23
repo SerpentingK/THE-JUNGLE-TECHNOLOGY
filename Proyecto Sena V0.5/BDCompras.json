@@ -1,0 +1,188 @@
+{
+  "0003-A": {
+    "atributos": {
+      "fecha": "2024-06-20",
+      "deuda": 0.0,
+      "nombreCliente": "3",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 3.0,
+      "codigoFactura": "0003-A",
+      "abono": 3.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "3",
+            "marca": "3",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 3.0,
+            "entregado": false,
+            "modelo": "3"
+          }
+        }
+      ],
+      "numeroTelefono": "3"
+    }
+  },
+  "0002-A": {
+    "atributos": {
+      "fecha": "2024-06-15",
+      "deuda": 0.0,
+      "nombreCliente": "2",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 2.0,
+      "codigoFactura": "0002-A",
+      "abono": 2.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "2",
+            "marca": "2",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 2.0,
+            "entregado": false,
+            "modelo": "2"
+          }
+        }
+      ],
+      "numeroTelefono": "2"
+    }
+  },
+  "0001-A": {
+    "atributos": {
+      "fecha": "2024-06-20",
+      "deuda": 0.0,
+      "nombreCliente": "1",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 1.0,
+      "codigoFactura": "0001-A",
+      "abono": 1.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "1",
+            "marca": "1",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 1.0,
+            "entregado": false,
+            "modelo": "1"
+          }
+        }
+      ],
+      "numeroTelefono": "1"
+    }
+  },
+  "0006-A": {
+    "atributos": {
+      "fecha": "2024-06-23",
+      "deuda": 40000.0,
+      "nombreCliente": "jaqueline",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "1411",
+          "documento": "1000517755",
+          "nombre": "Juan"
+        }
+      },
+      "totalPago": 50000.0,
+      "codigoFactura": "0006-A",
+      "abono": 10000.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "Pacha",
+            "marca": "Samsung",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 50000.0,
+            "entregado": false,
+            "modelo": "A14"
+          }
+        }
+      ],
+      "numeroTelefono": "3214960425"
+    }
+  },
+  "0005-A": {
+    "atributos": {
+      "fecha": "2024-06-21",
+      "deuda": 0.0,
+      "nombreCliente": "5",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 5.0,
+      "codigoFactura": "0005-A",
+      "abono": 5.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "5",
+            "marca": "5",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 5.0,
+            "entregado": false,
+            "modelo": "5"
+          }
+        }
+      ],
+      "numeroTelefono": "5"
+    }
+  },
+  "0004-A": {
+    "atributos": {
+      "fecha": "2024-06-21",
+      "deuda": 0.0,
+      "nombreCliente": "4",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 4.0,
+      "codigoFactura": "0004-A",
+      "abono": 4.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "4",
+            "marca": "4",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 4.0,
+            "entregado": false,
+            "modelo": "4"
+          }
+        }
+      ],
+      "numeroTelefono": "4"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Logicas": {
+    "atributos": {
+      "lista": [
+        {
+          "atributos": {
+            "dispositivo": "S14",
+            "unidades": 3.0
+          }
+        }
+      ],
+      "tipo": "Logicas"
+    }
+  },
+  "Pachas": {
+    "atributos": {
+      "lista": [
+        {
+          "atributos": {
+            "dispositivo": "S14",
+            "unidades": 3.0
+          }
+        },
+        {
+          "atributos": {
+            "dispositivo": "S10",
+            "unidades": 5.0
+          }
+        },
+        {
+          "atributos": {
+            "dispositivo": "S10",
+            "unidades": 25.0
+          }
+        },
+        {
+          "atributos": {
+            "dispositivo": "R10",
+            "unidades": 2.0
+          }
+        }
+      ],
+      "tipo": "Pachas"
+    }
+  },
+  "Flex": {
+    "atributos": {
+      "lista": [
+        {
+          "atributos": {
+            "dispositivo": "S14",
+            "unidades": 10.0
+          }
+        },
+        {
+          "atributos": {
+            "dispositivo": "S10",
+            "unidades": 10.0
+          }
+        }
+      ],
+      "tipo": "Flex"
+    }
+  },
+  "Baterias": {
+    "atributos": {
+      "lista": [
+        {
+          "atributos": {
+            "dispositivo": "Iphone 10",
+            "unidades": 2.0
+          }
+        }
+      ],
+      "tipo": "Baterias"
+    }
+  }
+}

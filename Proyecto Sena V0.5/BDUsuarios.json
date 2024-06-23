@@ -1,0 +1,30 @@
+{
+  "1": {
+    "atributos": {
+      "nombre": "Camilo",
+      "clave": "0000",
+      "documento": "1"
+    }
+  },
+  "5": {
+    "atributos": {
+      "nombre": "5",
+      "clave": "5",
+      "documento": "5"
+    }
+  },
+  "1019983157": {
+    "atributos": {
+      "nombre": "David Carrillo",
+      "clave": "2004",
+      "documento": "1019983157"
+    }
+  },
+  "1000517755": {
+    "atributos": {
+      "nombre": "Juan",
+      "clave": "1411",
+      "documento": "1000517755"
+    }
+  }
+}
