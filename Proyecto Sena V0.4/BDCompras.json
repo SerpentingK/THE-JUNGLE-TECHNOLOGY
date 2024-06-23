@@ -1,0 +1,95 @@
+{
+  "0003-A": {
+    "atributos": {
+      "fecha": "2024-06-20",
+      "deuda": 0.0,
+      "nombreCliente": "3",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 3.0,
+      "codigoFactura": "0003-A",
+      "abono": 3.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "3",
+            "marca": "3",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 3.0,
+            "entregado": false,
+            "modelo": "3"
+          }
+        }
+      ],
+      "numeroTelefono": "3"
+    }
+  },
+  "0002-A": {
+    "atributos": {
+      "fecha": "2024-06-20",
+      "deuda": 0.0,
+      "nombreCliente": "2",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 2.0,
+      "codigoFactura": "0002-A",
+      "abono": 2.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "2",
+            "marca": "2",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 2.0,
+            "entregado": false,
+            "modelo": "2"
+          }
+        }
+      ],
+      "numeroTelefono": "2"
+    }
+  },
+  "0001-A": {
+    "atributos": {
+      "fecha": "2024-06-20",
+      "deuda": 0.0,
+      "nombreCliente": "1",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "2004",
+          "documento": "111111",
+          "nombre": "Gucci"
+        }
+      },
+      "totalPago": 1.0,
+      "codigoFactura": "0001-A",
+      "abono": 1.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "1",
+            "marca": "1",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 1.0,
+            "entregado": false,
+            "modelo": "1"
+          }
+        }
+      ],
+      "numeroTelefono": "1"
+    }
+  }
+}

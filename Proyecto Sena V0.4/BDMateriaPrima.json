@@ -1,0 +1,27 @@
+{
+  "Pachas": {
+    "atributos": {
+      "lista": [
+        {
+          "atributos": {
+            "dispositivo": "Samsung A14",
+            "unidades": 3.0
+          }
+        },
+        {
+          "atributos": {
+            "dispositivo": "Redmi 10",
+            "unidades": 3.0
+          }
+        }
+      ],
+      "tipo": "Pachas"
+    }
+  },
+  "Flex": {
+    "atributos": {
+      "lista": [],
+      "tipo": "Flex"
+    }
+  }
+}

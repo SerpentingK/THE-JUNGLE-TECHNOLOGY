@@ -1,0 +1,75 @@
+{
+  "0002-A": {
+    "atributos": {
+      "fecha": "2024-06-13",
+      "deuda": 70000.0,
+      "nombreCliente": "sofia",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "clave",
+          "documento": "documento",
+          "nombre": "PRUEBA"
+        }
+      },
+      "totalPago": 70000.0,
+      "codigoFactura": "0002-A",
+      "abono": 0.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "a",
+            "marca": "Samsung",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 20000.0,
+            "entregado": false,
+            "modelo": "A14"
+          }
+        },
+        {
+          "atributos": {
+            "descripcion": "b",
+            "marca": "Samsung",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 50000.0,
+            "entregado": false,
+            "modelo": "A12"
+          }
+        }
+      ],
+      "numeroTelefono": "3203169321"
+    }
+  },
+  "0001-A": {
+    "atributos": {
+      "fecha": "2024-06-13",
+      "deuda": 20000.0,
+      "nombreCliente": "juan",
+      "tecnicoAsignado": {
+        "atributos": {
+          "clave": "clave",
+          "documento": "documento",
+          "nombre": "PRUEBA"
+        }
+      },
+      "totalPago": 20000.0,
+      "codigoFactura": "0001-A",
+      "abono": 0.0,
+      "listaDispositivos": [
+        {
+          "atributos": {
+            "descripcion": "a",
+            "marca": "Samsung",
+            "tipoDispositivo": "celularAndroid",
+            "terminado": false,
+            "precio": 20000.0,
+            "entregado": false,
+            "modelo": "A14"
+          }
+        }
+      ],
+      "numeroTelefono": "3203169321"
+    }
+  }
+}
